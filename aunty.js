@@ -11,3 +11,15 @@
  * 7. and: &&
  * 8. or: ||
  */
+
+
+/**
+ * Logical not: !
+ * 
+ * ==> !false: ture
+ * ==> !ture: false
+ * 
+ * double not: !!
+ * ==> !!false: false
+ * ==> !!true: true
+ */
